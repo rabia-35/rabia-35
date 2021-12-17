@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   ### 📫 Contact
 <br/>
-##### E-mail:  rabia.olker@gmail.com
+<p> E-mail:  rabia.olker@gmail.com </p>
 <br/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/rabia-35)    [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabialker/)     [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-quare&labelColor=0077b5&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/rabia-olker/) 
