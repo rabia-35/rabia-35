@@ -1,5 +1,5 @@
 ## Hi there, I'm Rabia 👋
-![](https://miro.medium.com/max/1000/1*vHUiXvBE0p0fLRwFHZuAYw.gif)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
 
 
 Here are some ideas to get you started:
