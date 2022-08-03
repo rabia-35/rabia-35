@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
  ### 📫 Contact
 <br/>
-<p> E-mail:  rabia.olker@gmail.com </p>
+<p>  📫 rabia.olker@gmail.com </p>
 
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-000?style=quare&labelColor=000&logo=netlify&logoColor=white&link=link)](https://app.netlify.com/user/settings)    [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabialker/)     [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-quare&labelColor=0077b5&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/rabia-olker/) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-006400?style=flat-quare&labelColor=006400&logo=hackerrank&logoColor=white&link=link)](https://www.hackerrank.com/rabia_olker) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-quare&labelColor=FF8C00&logo=leetcode&logoColor=white&link=link)](https://leetcode.com/rabiaolker/)
 
